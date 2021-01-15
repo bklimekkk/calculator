@@ -103,20 +103,6 @@ top:10px;
 }
 }
 
-@media only screen and (max-height:600px){
-  h1{
-  font-size:20px;
-  }
-input{
-  width:630px;
-}
-
-button{
-  height:10px;
-}
-
-}
-
 @media only screen and (min-width:600px) and (max-width: 1024px){
   h1{
   font-size:140px;
