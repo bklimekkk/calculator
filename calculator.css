@@ -103,7 +103,7 @@ top:10px;
 }
 }
 
-@media only screen and (min-height:600px) and (max-width: 1024px){
+@media only screen and (max-height:600px){
   h1{
   font-size:20px;
   }
